@@ -1,0 +1,11 @@
+html,
+body,
+header,
+#jumbo {
+    height: 100%;
+}
+
+
+#jumbo {
+    background: url(../img/abstract-architecture-building-207153.jpg) no-repeat center fixed
+}
