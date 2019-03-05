@@ -1,11 +1,16 @@
 html,
 body,
 header,
+.container,
 #jumbo {
     height: 100%;
+    width: 100%;
 }
 
 
 #jumbo {
-    background: url(../img/abstract-architecture-building-207153.jpg) no-repeat center fixed
+    background: url(../img/abstract-architecture-building-207153.jpg) no-repeat center fixed;
+    color: black;
+    text-align: center;
+    padding: 20% 0 0 5%;
 }
